@@ -32,4 +32,7 @@ java PongGame
 - Up: Up arrow key
 - Down: Down arrow key
 
+## Screenshot
+![others1](https://github.com/MeGaTroNOO7/PingPongGame/assets/98184459/caf4fb5f-8ec2-4c65-962e-8c9d808c3acb)
+
 
